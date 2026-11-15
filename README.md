@@ -35,4 +35,6 @@ Historical definitions do not establish present-day use. Match the scale on your
 
 Compiled by [Zameen Maap](https://zameenmaap.in). Please credit Zameen Maap with a link when reusing the table, and retain the primary-source citations and scope limits. Suggested credit: "Local land-unit conventions of India, compiled by Zameen Maap (https://zameenmaap.in), CC BY 4.0." Primary documents retain their own attribution and rights information.
 
+Archived on Zenodo with a permanent identifier: [10.5281/zenodo.24237736](https://doi.org/10.5281/zenodo.24237736).
+
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
